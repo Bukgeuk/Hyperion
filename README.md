@@ -1,3 +1,9 @@
+# Hyperion case for 603048
+
+- 배터리 공간을 603048 크기에 맞도록 수정
+- 케이스에 MPU6050이 들어가지 않는 문제 수정
+- STL Files와 Fusion360 폴더의 603048 항목 확인 바람 
+
 ![Imgur](https://i.imgur.com/ebOnhmL.png) <br>
 
 # Hyperion case for DIY SlimeVR!
